@@ -1,6 +1,7 @@
 # JS-Matrix
 
 An application that receives N and M, and creates an array of inputs, that only receives whole numbers. Validate that each sum of each row and column is always 100.
+
 [JS atrix Web Site](https://jsmatrixyoyman.netlify.app/) <-- Go to visit  
 
 # Instructions
