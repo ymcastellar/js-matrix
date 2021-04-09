@@ -6,7 +6,7 @@ An application that receives N and M, and creates an array of inputs, that only 
 
 Enter the number of rows and columns to generate the matrix and then enter the sum values ​​in each cell.
 
-![homepage](home.png)
+![homepage](home.PNG)
 
 ## Author ✒️
 
