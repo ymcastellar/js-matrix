@@ -1,0 +1,57 @@
+* {
+	padding   : 0;
+	margin    : 0;
+	text-align: center;
+}
+
+.body {
+	background-color: #53A2BE;
+}
+
+.header__title {
+	color: #0A2239;
+	font-size: 3rem;
+	padding  : 2rem;
+}
+
+.container {
+	max-width: 450px;
+	margin   : 0 auto;
+}
+
+.generate__inputs {
+	padding: 2rem;
+}
+
+.btn {
+	color           : #f2f2f2;
+	background-color: #176087;
+	border-radius   : 10px;
+	border-color    : transparent;
+	padding         : 0.5rem;
+	cursor          : pointer;
+}
+
+.btn:hover {
+	background-color: #132E32;
+}
+
+.input {
+	border-color : #1C5D99;
+	border-radius: 5px;
+	border-width : 1px;
+	border-style : solid;
+	padding: 0.25rem;
+}
+
+.generate__btn {
+	padding-bottom: 2rem;
+}
+
+.result__btn {
+	padding: 2rem;
+}
+
+.result__ArrayInput {
+	margin: 0.1rem;
+}
